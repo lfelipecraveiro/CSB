@@ -8,5 +8,9 @@
 
 void gotoxy(int x, int y);
 void Tela(void);
+void Menu_principal(void);
+void limpa_mensagem(void);
+void Submenu_cadastro(void);
+void Submenu_inclusao(void);
 
 #endif 
